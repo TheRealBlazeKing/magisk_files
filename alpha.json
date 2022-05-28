@@ -2,11 +2,11 @@
   "magisk": {
     "version": "edb76503-alpha",
     "versionCode": "24313",
-    "link": "app-release.apk",
+    "link": "https://github.com/TheRealBlazeKing/magisk_files/raw/alpha/app-release.apk",
     "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@b03fdcb14dc0e7ec88e98ac3dd769d96ab01c1e2/app/src/main/res/raw/changelog.md"
   },
   "stub": {
     "versionCode": "30",
-    "link": "stub-release.apk"
+    "link": "https://github.com/TheRealBlazeKing/magisk_files/raw/alpha/stub-release.apk"
   }
 }
